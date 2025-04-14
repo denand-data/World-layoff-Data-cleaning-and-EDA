@@ -1,2 +1,2 @@
 # World-layoff-Data-cleaning-and-EDA
-This repository shows the process made to clean and analyze global layoffs trends from 2020 to March 2023
+This repository shows the process to clean and analyze global layoffs trends from March 2020 to March 2023.
